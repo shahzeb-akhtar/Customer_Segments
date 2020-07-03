@@ -11,11 +11,9 @@ This project requires the following Python libraries:
 - altair
 - sklearn
 
-You will also need to have software installed to run and execute a [Jupyter Notebook](http://ipython.org/notebook.html)
-
 ### Code
 
-Code is provided in the `customer_segments.ipynb` notebook file. You will also require the `customers.csv` dataset file to complete work.
+Code is provided in the `customer_segments.ipynb` notebook file. Data is present in `customers.csv` file.
 
 ## Data
 
@@ -35,7 +33,9 @@ Note (m.u.) is shorthand for *monetary units*.
 
 ## Results
 
-![performace of model](screen_shots/performance.png)
+![clusters](screen_shots/clusters.png)
+
+![cluster_mean](screen_shots/cluster_mean.png)
 
 ## Acknowledgements
  - [Udacity](https://www.udacity.com/)
