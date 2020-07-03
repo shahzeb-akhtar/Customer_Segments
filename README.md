@@ -35,7 +35,9 @@ Note (m.u.) is shorthand for *monetary units*.
 
 ## Results
 
-![performace of model](screen_shots/performance.png)
+![clusters](screen_shots/clusters.png)
+
+![cluster_mean](screen_shots/cluster_mean.png)
 
 ## Acknowledgements
  - [Udacity](https://www.udacity.com/)
